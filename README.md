@@ -1,4 +1,10 @@
 ### Hi there 👋
+---
+I am **Seungho Na** whose **development is current continuous**! 😄
+Dreaming front-end developer, ultimately full stack developer ✨
++ 🌱 Learning: Python(Django), HTML, CSS
++ 📄 Plan to learn: javascript, Vue
++ 📫 Contact: qlfflwls2@gamil.com
 
 <!--
 **qlfflwls5/qlfflwls5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qlfflwls5&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white
