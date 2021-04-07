@@ -1,6 +1,7 @@
 ### Hi there 👋
 ---
 I am **Seungho Na** whose **development is current continuous**! 😄
+
 Dreaming front-end developer, ultimately full stack developer ✨
 + 🌱 Learning: Python(Django), HTML, CSS
 + 📄 Plan to learn: javascript, Vue
