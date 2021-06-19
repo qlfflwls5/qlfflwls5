@@ -7,6 +7,8 @@ Dreaming full stack developer ✨
 
 + 📫 Contact: qlfflwls2@gamil.com
 
++ 💬 About Me: https://www.notion.so/Seungho-Na-2236be19e2ba44008f5fff2c8bcd6e1a
+
 <!--
 **qlfflwls5/qlfflwls5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
